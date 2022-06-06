@@ -11,6 +11,10 @@ description: Web Developer from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
+header_pages:
+  - index.md
+  - about.md
+
 #
 # Flags below are optional
 #
