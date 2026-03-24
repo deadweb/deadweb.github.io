@@ -31,7 +31,7 @@ body {
   margin: auto;
   padding: 0;
   width: 95%;
-  max-width: 100px;
+  max-width: 1000px;
 }
 
 .home {
@@ -152,5 +152,4 @@ pre code {
   text-decoration: underline dashed;
   text-transform: uppercase;
 }
-
 
